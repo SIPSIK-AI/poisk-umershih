@@ -1,0 +1,7 @@
+{
+  "name": "poisk-umershih",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "build": "node --version" },
+  "dependencies": { "@netlify/blobs": "11.1.6" }
+}
